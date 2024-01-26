@@ -1,0 +1,12 @@
+body {
+    background: #101010;
+    font-family: 'SF Mono';
+    font-weight: 700;
+    color: var(--white);
+    margin: 0;
+    padding: 0;
+}
+
+@import './variables.scss';
+@import './menu.scss';
+@import './game.scss';
